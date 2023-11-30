@@ -11,7 +11,7 @@ Compatible with versions of OBS:
 #### MacOS
 
 1. Download official [OBS](https://github.com/obsproject/obs-studio/releases) for your specific OS and architecture.
-2. Install OBS.
+2. Install OBS. Open OBS to let MacOS verify the application if it's the first installation. 
 3. Download the [plugin](https://github.com/Caton-Technology/cmxs-plugin-for-obs/releases) for your specific OS and architecture.
 4. Unzip the file.
 5. Install the plugin:
