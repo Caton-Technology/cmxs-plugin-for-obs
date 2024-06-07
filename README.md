@@ -1,13 +1,21 @@
 # Caton Media XStream Plugin for OBS
+**This document is Deprecated.** 
+
+Please follow https://github.com/caton-sdk/cmxs-sdk for SDK and https://github.com/caton-cmxs-examples/caton-cmxs-examples for Plugins.
+
 
 ## Compatibillity
 Only MacOS for now. Plugin for Windows platform is comming soon.
 
 Compatible with versions of OBS:
-* v29.1.3
-* v30.0.0
+ * plugin 1.12.1
+	* v29.1.3
+	* v30.0.0
+ * plugin 1.8
+ 	* v30.x	 
 
 ## Installation
+
 #### MacOS
 
 1. Download official [OBS](https://github.com/obsproject/obs-studio/releases) for your specific OS and architecture.
