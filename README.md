@@ -5,7 +5,7 @@
 
 **This document is Deprecated.** 
 
-Please follow https://github.com/caton-sdk/cmxs-sdk for SDK and https://github.com/caton-cmxs-examples/caton-cmxs-examples for Plugins.
+Please follow https://github.com/Caton-Technology/cmxs-sdk for SDK and https://github.com/Caton-Technology/caton-cmxs-examples for Plugins.
 
 ## Compatibillity
 Only MacOS for now. Plugin for Windows platform is comming soon.
